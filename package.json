@@ -4,7 +4,7 @@
   "description": "QRcode ",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch scss/styles.scss:qr-code-component-main/css/styles.css"
+    "sass": "sass --watch scss/styles.scss:css/styles.css"
   },
   "author": "Na Yeon (Diana)",
   "license": "ISC",
