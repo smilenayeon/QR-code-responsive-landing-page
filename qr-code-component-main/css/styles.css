@@ -8,7 +8,7 @@
 }
 
 main {
-  background-color: rgb(123, 178, 178);
+  background-color: hsl(212, 45%, 89%);
   height: 100vh;
   width: auto;
   display: flex;
@@ -19,12 +19,14 @@ main {
 article {
   background-color: white;
   border-radius: 20px;
+  font-family: "Outfit", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   padding: 20px;
   width: 30%;
+  box-shadow: 10px 10px 10px hsl(220, 15%, 55%);
 }
 
 img {
@@ -34,11 +36,14 @@ img {
 }
 
 h1 {
-  color: navy;
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
 }
 
 p {
-  color: grey;
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  font-size: 15px;
 }
 
 /*# sourceMappingURL=styles.css.map */
