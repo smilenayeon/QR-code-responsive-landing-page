@@ -1,0 +1,44 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+main {
+  background-color: rgb(123, 178, 178);
+  height: 100vh;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+article {
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  width: 30%;
+}
+
+img {
+  width: 80%;
+  height: auto;
+  border-radius: 20px;
+}
+
+h1 {
+  color: navy;
+}
+
+p {
+  color: grey;
+}
+
+/*# sourceMappingURL=styles.css.map */

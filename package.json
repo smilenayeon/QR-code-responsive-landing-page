@@ -1,0 +1,14 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "description": "QRcode ",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss/styles.scss:css/styles.css"
+  },
+  "author": "Na Yeon (Diana)",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
+}
