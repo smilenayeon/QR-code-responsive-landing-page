@@ -24,12 +24,13 @@ border-radius: $round-border;
 font-family: 'Outfit', sans-serif;
 @include flex-center;
 flex-direction: column;
-padding:20px;
-width:30%;
+padding:15px;
+width: 320px;
+height: 500px;
 box-shadow: 10px 10px 10px $grayish-blue;
 }
 img{
-   width:80%;
+   width:100%;
    height:auto;
     border-radius: $round-border;
 }
@@ -41,4 +42,5 @@ p{
     color: $grayish-blue;
     font-weight: 400;
     font-size: 15px;
+    padding: 0 1.3rem;
 }
