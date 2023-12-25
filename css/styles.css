@@ -24,13 +24,14 @@ article {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding: 20px;
-  width: 30%;
+  padding: 15px;
+  width: 320px;
+  height: 500px;
   box-shadow: 10px 10px 10px hsl(220, 15%, 55%);
 }
 
 img {
-  width: 80%;
+  width: 100%;
   height: auto;
   border-radius: 20px;
 }
@@ -44,6 +45,7 @@ p {
   color: hsl(220, 15%, 55%);
   font-weight: 400;
   font-size: 15px;
+  padding: 0 1.3rem;
 }
 
 /*# sourceMappingURL=styles.css.map */
